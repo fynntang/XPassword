@@ -5579,9 +5579,9 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-fs"
-version = "2.4.4"
+version = "2.4.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "47df422695255ecbe7bac7012440eddaeefd026656171eac9559f5243d3230d9"
+checksum = "ed390cc669f937afeb8b28032ce837bac8ea023d975a2e207375ec05afaf1804"
 dependencies = [
  "anyhow",
  "dunce",
@@ -5663,9 +5663,9 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-persisted-scope"
-version = "2.3.4"
+version = "2.3.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "65e4639faf38e4527a4549cbc68b788c0d29b03b65e65f1590f5ec582df5d028"
+checksum = "dcb33765b205abc72a1384d0a73489a00bae6ca1e151c5e824ac80115949d2e1"
 dependencies = [
  "aho-corasick",
  "bincode",
